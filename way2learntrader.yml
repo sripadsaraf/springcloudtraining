@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost/micro
     username: root
-    password: root
+    password: admin
   jpa:
     generate-ddl: true
   mvc:
